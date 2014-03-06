@@ -1,4 +1,9 @@
-﻿OpenSource Library
+﻿짤수집기
+==========
+
+http://blog.ryuanerin.kr/3
+
+OpenSource Library
 ==========
 
 - ImageListView
