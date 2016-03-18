@@ -1,7 +1,8 @@
 ﻿짤수집기
 ==========
 
-http://blog.ryuanerin.kr/3
+- 이미지 검색 결과에서 우클릭 해보세요
+- 더블클릭 - 다운로드
 
 OpenSource Library
 ==========
